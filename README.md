@@ -11,6 +11,7 @@ differs from existing wenyan in that
 4) GPL not MIT license and GNU FRD, not CC attribution
 5) Daoist; no code of conduct
 6) Still can interop with existing wenyan (ideally can transpile between both wenyans)
+7) Multiplexed - ideally, have an infinite variety of versions of itself that can be s(n)eeded (through ML / AI)
 
 The project is intended to largely be solitary yet communal; the ecosystem is likely to be more similar to the Emacs ecosystem than npm. 
 
