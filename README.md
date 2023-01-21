@@ -22,4 +22,4 @@ regardless existing wenyan is cool and lots of respect for what they've managed 
 * Foundational questions with wenyan and computing
 Ambiguous grammars, quantum state, weights
 
-** Ability to switch grammars for DSL
+** Ability to switch grammars and degree of ambiguity for hardware DSL
