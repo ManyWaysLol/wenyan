@@ -22,6 +22,6 @@ regardless existing wenyan is cool and lots of respect for what they've managed 
 * Foundational questions with wenyan and computing
 Ambiguous grammars, quantum state, weights
 
-** Discrete math and operator associativity w/ paraconsistent mathematics
+** Discrete math and operator (precedence/associativity) w/ paraconsistent mathematics
 
 ** Ability to switch grammars and degree of ambiguity for hardware DSL
