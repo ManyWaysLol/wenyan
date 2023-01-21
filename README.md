@@ -18,3 +18,6 @@ The project is intended to largely be solitary yet communal; the ecosystem is li
 regardless existing wenyan is cool and lots of respect for what they've managed to accomplish - check it out at https://github.com/wenyan-lang
 
 - Laozi
+
+* Foundational questions with wenyan and computing
+Ambiguous grammars, quantum state, weights
