@@ -3,6 +3,7 @@
 quick project so I can learn compilers for elisp -> wasm
 derivative of racket so I can learn how to make my own language
 
+* Why another wenyan? 
 differs from existing wenyan in that 
 1) not oriented around javascript or its ecosystem; based on racket and preferably itself recursively
 2) LISP syntax
@@ -11,4 +12,6 @@ differs from existing wenyan in that
 5) Daoist; no code of conduct
 6) Still can interop with existing wenyan (ideally can transpile between both wenyans)
 
-regardless existing wenyan is cool and lots of respect for what they've managed to accomplish
+regardless existing wenyan is cool and lots of respect for what they've managed to accomplish - check it out at https://github.com/wenyan-lang
+
+- Laozi
