@@ -15,12 +15,13 @@ differs from existing wenyan in that
 
 The project is intended to largely be solitary yet communal; the ecosystem is likely to be more similar to the Emacs ecosystem than npm. 
 
-regardless existing wenyan is cool and lots of respect for what they've managed to accomplish - check it out at https://github.com/wenyan-lang
+regardless existing wenyan is cool and lots of respect for what they've managed to accomplish - check it out at https://github.com/wenyan-lang 
 
 - Laozi
 
 * Foundational questions with wenyan and computing
-Ambiguous grammars, quantum state, weights
+Ambiguous grammars, quantum state, weights 
+Context sensitive grammars and success of python -- compynator
 
 ** Discrete math and operator (precedence/associativity) w/ paraconsistent mathematics
 
