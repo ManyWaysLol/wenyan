@@ -23,6 +23,15 @@ regardless existing wenyan is cool and lots of respect for what they've managed 
 Ambiguous grammars, quantum state, weights 
 Context sensitive grammars and success of python -- compynator
 
+
+
+[Koh18]: Michael Kohlhase. "Logic-Based Natural Language Processing. Winter Semester 2018/19. Lecture Notes." URL: https://kwarc.info/teaching/LBS/notes.pdf. URL of course description: https://kwarc.info/courses/lbs/ (in German)
+
+
+https://cs.stackexchange.com/questions/110402/why-are-ambiguous-grammars-bad
+https://www.grammaticalframework.org/
+
+
 ** Discrete math and operator (precedence/associativity) w/ paraconsistent mathematics
 
 ** Ability to switch grammars and degree of ambiguity for hardware DSL
