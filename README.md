@@ -7,7 +7,7 @@ derivative of racket so I can learn how to make my own language
 differs from existing wenyan in that 
 1) not oriented around javascript or its ecosystem; based on racket and preferably itself recursively
 2) LISP syntax
-3) Xuanxue principles - Focus on compiling for quantum machines; primarily is concerned with paraconsistent logic and dialethia (intends to incorporate all logical progress from Richard Sylvan's Meingnon's Jungle)
+3) Xuanxue principles - Focus on compiling for quantum machines; primarily is concerned with paraconsistent logic and dialethia (intends to incorporate all logical progress from Richard Sylvan's Meingnon's Jungle). Wenyan in its Daoist flavor (given that xuanxue is not itself a unified language) is the most useful when its multiplicity, indeterminacy, and meontological properties are fully leveraged for systems that can play in such spaces)
 4) GPL not MIT license and GNU FRD, not CC attribution
 5) Daoist; no code of conduct
 6) Still can interop with existing wenyan (ideally can transpile between both wenyans)
