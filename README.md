@@ -12,6 +12,8 @@ differs from existing wenyan in that
 5) Daoist; no code of conduct
 6) Still can interop with existing wenyan (ideally can transpile between both wenyans)
 
+The project is intended to largely be solitary yet communal; the ecosystem is likely to be more similar to the Emacs ecosystem than npm. 
+
 regardless existing wenyan is cool and lots of respect for what they've managed to accomplish - check it out at https://github.com/wenyan-lang
 
 - Laozi
