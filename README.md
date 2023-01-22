@@ -41,8 +41,8 @@ https://www.grammaticalframework.org/
 
 
 Intent: Primarily a low level language that can deal with ambiguity
-*** Targets:
+*** Targets / domains of DSL
 - WASM
 - Machine Learning - NLP
 - Quantum compilation
-- Ideal OS environment: Kolibrios / various flavors of TempleOS / Mezzanno / LISP OS derivative 
+- Ideal OS environment: Kolibrios / various flavors of TempleOS / Mezzanno / LISP OS derivative (ideally running on quantum hardware)
