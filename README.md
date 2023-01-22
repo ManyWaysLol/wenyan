@@ -3,6 +3,11 @@
 quick project so I can learn compilers for elisp -> wasm
 derivative of racket so I can learn how to make my own language
 
+* Language dev steps
+1. Racket derivative for quick devel and testing
+2. Re-implement racket derivative not relying on racket (machine code compiler for normal and quantum compute)
+
+
 * Why another wenyan? 
 differs from existing wenyan in that 
 1) not oriented around javascript or its ecosystem; design based on racket and preferably itself recursively -- should be developed to not depend upon racket, and be as minimal as possible (should be feasible as a language to write asm programs for kolibrios)
