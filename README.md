@@ -35,3 +35,5 @@ https://www.grammaticalframework.org/
 ** Discrete math and operator (precedence/associativity) w/ paraconsistent mathematics
 
 ** Ability to switch grammars and degree of ambiguity for hardware DSL
+
+** Parsers - check Du's
