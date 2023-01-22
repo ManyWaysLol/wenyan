@@ -37,7 +37,7 @@ https://www.grammaticalframework.org/
 
 ** Ability to switch grammars and degree of ambiguity for hardware DSL
 
-** Parsers - check Du's
+** Parsers - check Du Handbook's
 
 
 Intent and parameters of the domain specific language: Primarily a low level language that can deal with ambiguity and paraconsistency in hardware or NLP programming 
