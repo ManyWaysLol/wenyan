@@ -2,7 +2,14 @@
 
 quick project so I can learn compilers for elisp -> wasm
 derivative of racket so I can learn how to make my own language
-
+* Tooling
+Development IDE 
+ Based on Emacs
+ Presumes the user doesn't have all variants of kanbun memorized and is otherwise a native or ESL English / Japanese / Chinese speaker
+ Dictionary of wenyan with proper dictionary loaders and subloaders (e.g., translation from kanbun to English)
+ Flash-cards with anki and org-note
+ 
+ 
 * Language dev steps
 1. Racket derivative for quick devel and testing
 2. Re-implement racket derivative not relying on racket (machine code compiler for normal and quantum compute)
@@ -17,6 +24,7 @@ differs from existing wenyan in that
 5) Daoist; no code of conduct
 6) Still can interop with existing wenyan (ideally can transpile between both wenyans)
 7) Multiplexed - ideally, have an infinite variety of versions of itself that can be s(n)eeded (through ML / AI)
+8) Intended to be a practical tool rather than an esoteric language
 
 The project is intended to largely be solitary yet communal; the ecosystem is likely to be more similar to the Emacs ecosystem than npm. 
 
