@@ -40,8 +40,9 @@ https://www.grammaticalframework.org/
 ** Parsers - check Du's
 
 
-Intent: Primarily a low level language that can deal with ambiguity
-*** Targets / domains of DSL
+Intent and parameters of the domain specific language: Primarily a low level language that can deal with ambiguity and paraconsistency in hardware or NLP programming 
+
+*** Targets / domains of DSL / use-cases
 - WASM
 - Machine Learning - NLP
 - Quantum compilation
