@@ -5,7 +5,7 @@ derivative of racket so I can learn how to make my own language
 * Tooling
 Development IDE 
  Based on Emacs
- Presumes the user doesn't have all variants of kanbun memorized and is otherwise a native or ESL English / Japanese / Chinese speaker
+ Presumes the user doesn't have all variants of kanbun/wenyan memorized and is otherwise a native or ESL English / Japanese / Chinese speaker with no knowledge of the variants
  Dictionary of wenyan with proper dictionary loaders and subloaders (e.g., translation from kanbun to English)
  Flash-cards with anki and org-note
  
