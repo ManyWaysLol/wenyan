@@ -19,6 +19,7 @@ regardless existing wenyan is cool and lots of respect for what they've managed 
 
 - Laozi
 
+
 * Foundational questions with wenyan and computing
 Ambiguous grammars, quantum state, weights 
 Context sensitive grammars and success of python -- compynator
@@ -37,3 +38,11 @@ https://www.grammaticalframework.org/
 ** Ability to switch grammars and degree of ambiguity for hardware DSL
 
 ** Parsers - check Du's
+
+
+Intent: Primarily a low level language that can deal with ambiguity
+*** Targets:
+- WASM
+- Machine Learning - NLP
+- Quantum compilation
+- Ideal OS environment: Kolibrios / various flavors of TempleOS / Mezzanno / LISP OS derivative 
